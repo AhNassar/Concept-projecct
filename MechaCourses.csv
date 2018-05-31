@@ -1,0 +1,57 @@
+Code,Subject,HourPermitted,Prereq,Year,Semster
+MAT151,Calculus I,3,None,1,1
+BSC152,Engineering Physics I,3,None,1,1
+GSE153,Engineering Mechanics I,3,None,1,1
+GSE154,Engineering Graphics,3,None,1,1
+COM155,Int. to Information Tech.,3,None,1,1
+ENG156,Academic English Writing,3,None,1,1
+MAT161,Calculus II,3,MAT151,1,2
+BSC162,Engineering Physics II,3,BSC152,1,2
+GSE163,Engineering Mechanics II,3,GSE153,1,2
+BSC164,Chemistry,3,None,1,2
+GSE165,Workshop Technology,3,None,1,2
+ENG166,Technical English Writing,3,ENG156,1,2
+MAT251,Linear Algebra,3,MAT161,2,1
+GSE252,Engineering Materials I,3,BSC152,2,1
+COM253,Eng. Computer Programming,3,COM155,2,1
+GSE254,Fund. Of Thermodynamics & Heat Tranf.,3,BSC152,2,1
+GSE255,Electric Circuits Analysis,3,BSC162,2,1
+ENG256,Research English Writing,3,ENG166,2,1
+MAT261,Differential Equations,3,MAT161,2,2
+DES262,Stress Analysis ,3,GSE252,2,2
+DES263,Machine Elements Design &Drawing	,3,GSE154,2,2
+GSE264,Fund. of Fluid Mechanics,3,BSC152,2,2
+GSE265,Electronic Circuits Analysis,3,GSE255,2,2
+HUM266,Ethics - Safety &Legislations,3,GSE165,2,2
+MAT351,Mathematical Analysis and Numerical Methods,3,MAT261,3,1
+MFG352,Manufacturing Processes,3,GSE165,3,1
+GSE353,Fund. of Fluid Mechanics,3,BSC152,3,1
+MSE354,Electric Machines,3,GSE255,3,1
+MSE355,Sensors - Measurements and Data Acquisition System,3,GSE265,3,1
+GSE356,Kinematics  of Mechanical Systems,3,GSE264,3,1
+MAT361,Probability &Statistics,3,MAT351,3,2
+DES362,Machine Design,3,DES352,3,2
+GSE363,Fund. of Heat Transfer ,3,GSE254,3,2
+MSE364,Electric Drive Systems ,3,MSE354,3,2
+MSE365,Introduction to Mechatronics,3,MSE355,3,2
+GSE366,Dynamics of Mechanical Systems,3,GSE356,3,2
+MSE451,Digital Logic Control I,3,GSE265,4,1
+MSE452,Mechanical Vibrations,3,GSE264,4,1
+MSE453x,MSE Elective I,3,Min.108Cr.,4,1
+MSE454,Mechatronics Modelling and Simulation,3,MAT361,4,1
+MFG455,Introduction to CAD/CAM,3,MFG352,4,1
+HUM456,Project Management,3,MAT361,4,1
+MSE461,Digital Logic Control II,3,MSE451,4,2
+MSE462,Robotics,3,GSE366,4,2
+MSE463x,MSE Elective II,3,Min.126Cr.,4,2
+MSE464,Automatic Control,3,MSE454,4,2
+MSE465,Microprocessor and Microcontroller Systems,3,MSE365,4,2
+HUM466,Engineering Economy,3,MAT361,4,2
+MSE551,Artificial Intelligence,3,MSE465,5,1
+MSE552,Hydraulic & Pneumatic Control,3,GSE353 & MSE464,5,1
+MSE553x,MSE Elective III,3,Min.144cr.,5,1
+MSE554,Graduation Project (Part I),3,Min.138Cr,5,1
+MSE561,Mechatronics System Design,3,MSE551,5,2
+MSE562,Industrial Automation,3,MSE552,5,2
+MSE563x,MSE Elective IV,3,Min.156cr.,5,2
+MSE564,Graduation Project (Part II),3,MSE554,5,2

@@ -1,0 +1,29 @@
+
+
+Version:	3.10
+CmdLine:	C:\Users\Veirn\Documents\NetBeansProjects\Student app\Studentapp.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Veirn\Documents\NetBeansProjects\Student app\.
+Java min ver:	1.7.0
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Check launcher:	C:\Program Files\Java\jdk1.8.0_161\jre\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_161
+Check launcher:	C:\Program Files\Java\jdk1.8.0_161\jre\bin\javaw.exe (OK)
+Match:		1.8.0_161
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Check:		SOFTWARE\JavaSoft\JRE\10.0.1
+Check launcher:	C:\Program Files\Java\jre-10.0.1\bin\javaw.exe (OK)
+Match:		10.0.1
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\10
+Ignore:		10
+Runtime used:	10.0.1 (64-bit)
+Launcher:	C:\Program Files\Java\jre-10.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Veirn\Documents\NetBeansProjects\Student app\Studentapp.exe"
+Args length:	75/32768 chars
+Exit code:	0

@@ -1,0 +1,57 @@
+Code,Subject,HourPermitted,Prereq,Year,Semster
+MAT151,Calculus I,3,None,1,1
+BSC152,Engineering Physics I,3,None,1,1
+GSE153,Engineering Mechanics I,3,None,1,1
+GSE154,Engineering Graphics,3,None,1,1
+COM155,Int. to Information Tech.,3,None,1,1
+ENG156,Academic English Writing,3,None,1,1
+MAT161,Calculus II,3,MAT151,1,2
+BSC162,Engineering Physics II,3,BSC152,1,2
+GSE163,Engineering Mechanics II,3,GSE153,1,2
+BSC164,Chemistry,3,None,1,2
+GSE165,Workshop Technology,3,None,1,2
+ENG166,Technical English Writing,3,ENG156,1,2
+MAT251,Linear Algebra,3,MAT161,2,1
+GSE252,Engineering Materials I,3,BSC152,2,1
+MFG253,Forming Manufacturing Processes,3,GSE165,2,1
+GSE254,Fund. Of Thermodynamics & Heat Tranf.,3,BSC152,2,1
+COM255,Eng. Computer Programming I,3,COM155,2,1
+ENG256,Research English Writing,3,ENG166,2,1
+MAT261,Differential Equations,3,MAT161,2,2
+GSE262,Engineering Measurements,3,BSC162,2,2
+MFG263,Cutting Mfg. Processes,3,GSE165,2,2
+GSE264,Fund. of Fluid Mechanics,3,BSC152,2,2
+COM265,Eng. Computer Programming II,3,COM255,2,2
+SOC266x,Social Sciences Elective,3,ENG256,2,2
+MAT351,Mathematical Analysis and Numerical Methods,3,MAT261,3,1
+DES352,Stress Analysis,3,GSE252,3,1
+MFG353,Numerical Control Machines,3,MFG263,3,1
+ISE354,Work Analysis & Measurement,3,MFG263,3,1
+ISE355,Operations Research,3,MAT251,3,1
+GSE356,Fund. Of Electrical Engineering,3,BSC162,3,1
+MAT361,Probability &Statistics,3,MAT351,3,2
+DES362,Machine Design,3,DES352,3,2
+DES363,Tool Design,3,MFG263,3,2
+ISE364,Engineering Economy,3,MAT251,3,2
+GSE365,Engineering Materials II,3,GSE252,3,2
+GSE366,Fund. Of Electronics Engineering,3,GSE356,3,2
+ISE451,Production Planning & Control,3,ISE355,4,1
+ISE452,Statistical Quality Control,3,MAT361,4,1
+ISE453x,Elective I,3,None,4,1
+ISE454,Automatic Control,3,MAT361,4,1
+MFG455,Introduction to CAD/CAM,3,MFG353,4,1
+ISE456,Facilities Planning & Design,3,ISE355,4,1
+ISE461,Maintenance Planning & Control,3,ISE451,4,2
+DES462,Product Development & Design,3,DES352,4,2
+ISE463x,Elective II,3,None,4,2
+ISE464,Robotics,3,ISE454,4,2
+ISE465,Quality Management & Assurance,3,ISE452,4,2
+USE466,Project Management,3,ISE355,4,2
+ISE551,Design of Experiments,3,ISE465,5,1
+GSE552,Legislations and Contracts,3,ISE466,5,1
+ISE553x,Elective III,3,None,5,1
+ISE554,Graduation Project (Part I),3,Min.138Cr,5,1
+ISE561,Simulation Modeling and Analysis,3,ISE355,5,2
+GSE562,Ethics. Safety & Health,3,ISE354,5,2
+ISE563x,Elective IV,3,None,5,2
+ISE564,Graduation Project (Part II),3,ISE554,5,2

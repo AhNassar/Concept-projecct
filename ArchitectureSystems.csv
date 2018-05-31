@@ -1,0 +1,55 @@
+Code,Subject,HourPermitted,Prereq.,Year,Semster
+MAT151,Calculus I,3,None,1,1
+BSC152,Engineering Physics I,3,None,1,1
+GSE153,Engineering Mechanics I,3,None,1,1
+GSE154,Engineering Graphics,3,None,1,1
+COM155,Introduction to Information Technology,3,None,1,1
+ENG156,Academic English Writing,3,None,1,1
+MAT161,Calculus II,3,MAT151,1,2
+BSC162,Engineering Physics II,3,BSC152,1,2
+GSE163,Engineering Mechanics II,3,GSE153,1,2
+BSC164,Chemistry,3,None,1,2
+GSE165,Workshop Technology,3,None,1,2
+ENG166,Technical English Writing,3,ENG156,1,2
+ASE251,Architectural Design I,4,None,2,1
+ASE252,Architecture History & Theories I,3,None,2,1
+ASE253,Architectural Graphics,3,GSE154,2,1
+GSE254,Engineering Surveying ,2,MAT151,2,1
+CVL255,Properties and Strength of Materials,3,GSE153,2,1
+ENG256,Research English Writing,3,ENG166,2,1
+ASE261,Architectural Design II,4,ASE251,2,2
+ASE262,Architecture History & Theories II,3,ASE252,2,2
+GSE263,Environmental Control Systems,2,BSC162,2,2
+ASE264,Building Construction I,3,None,2,2
+CVL265,Structural Analysis,3,CVL255,2,2
+COM266,Architectural Computer Graphics I,3,GSE154&COM155,2,2
+ASE351,Architectural Design III,4,ASE261,3,1
+ASE352,Architecture History & Theories III,3,ASE262,3,1
+ASE353,Interior Design ,2,ASE261,3,1
+ASE354,Building Construction II,3,ASE264,3,1
+CVL355,R.C. Structures & Foundations I,3,CVL265,3,1
+COM356,Architectural Computer Graphics II,3,COM266,3,1
+ASE361,Architectural Design IV,4,ASE351,3,2
+ASE362,Architecture History & Theories IV,3,ASE352,3,2
+ASE363,Urban Planning and Design ,2,ASE261,3,2
+ ASE364,Working Drawing I,3,ASE354,3,2
+CVL365,R.C. Structures & Foundations II,3,CVL355,3,2
+GSE366,Technical service Systems I,2,BSC162,3,2
+ASE451,Architectural Design V,5,ASE361,4,1
+ASE452,Land Scape Design ,2,ASE361,4,1
+ASE453x,ASE Elective I,3,Min.100 Cr.,4,1
+ASE454,Working Drawing II,3,ASE364,4,1
+CVL455,Steel Structures,3,CVL365,4,1
+ASE461,Architectural Design VI,5,ASE451,4,2
+ASE462,Housing Planning and Design,3,ASE363,4,2
+ASE463x,ASE Elective II,3,Min.100 Cr.,4,2
+ASE464,Working Drawings III,4,ASE454,4,2
+GSE465,Technical service Systems II,2,BSC162,4,2
+ASE551,Architectural Design VII,5,ASE461,5,1
+ASE552,Working Drawings IV,4,ASE464,5,1
+ASE 553x,ASE Elective III,3,Min.120 Cr.,5,1
+ASE554,Graduation Project I,2,Min.138 Cr.,5,1
+ASE561,"Prof. Practice & Bldg, Regulations",3,ASE454,5,2
+ASE562,Construction Management,3,ASE454,5,2
+ASE563x,ASE Elective IV,3,Min.120 Cr.,5,2
+ASE564,Graduation Project II,5,ASE545,5,2
